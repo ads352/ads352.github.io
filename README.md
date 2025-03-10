@@ -1,2 +1,2 @@
 # ads352.github.io
-ADS325 dersi internet sitesi
+ADS352 dersi internet sitesine hoş geldiniz.
